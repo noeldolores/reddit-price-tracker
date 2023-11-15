@@ -7,7 +7,7 @@ idna==2.10
 pipenv==2022.1.8
 praw==7.1.0
 prawcore==1.4.0
-requests==2.24.0
+requests==2.31.0
 six==1.15.0
 update-checker==0.17
 urllib3==1.26.5
