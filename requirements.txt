@@ -10,7 +10,7 @@ prawcore==1.4.0
 requests==2.24.0
 six==1.15.0
 update-checker==0.17
-urllib3==1.26.5
+urllib3==1.26.18
 virtualenv==20.0.25
 virtualenv-clone==0.5.4
 websocket-client==0.57.0
